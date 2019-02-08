@@ -9,6 +9,5 @@ page_sections:
   block: two-column-1
 - template: simple-footer
   block: footer-1
-published: false
 
 ---
